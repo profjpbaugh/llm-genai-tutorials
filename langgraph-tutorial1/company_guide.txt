@@ -1,0 +1,14 @@
+Section 1: Employee Benefits
+Our company offers comprehensive health insurance including medical, dental, and vision coverage.
+Employees are eligible after 30 days of employment.
+We also provide a 401(k) plan with a 4% employer match after 6 months.
+
+Section 2: Vacation and PTO
+Full-time employees accrue 15 days of paid vacation per year.
+Unused PTO may roll over up to 5 days into the next calendar year.
+Sick leave is tracked separately and accrues at 1 day per month.
+
+Section 3: Remote Work Policy
+Employees are allowed to work remotely up to 3 days per week with manager approval.
+Fully remote positions are available in engineering, design, and support teams.
+Remote workers must attend mandatory quarterly on-site meetings.
